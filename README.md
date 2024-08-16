@@ -1,100 +1,103 @@
-<a href="https://github.com/azamijs/CuriosityBot-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/azamijs/CuriosityBot-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/azamijs/Curiosity"><img title="Followers" src="https://img.shields.io/github/followers/azamijs?color=blue&style=flat-square"></a>
-<a href="https://github.com/azamijs/CuriosityBot-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/azamijs/CuriosityBot-MD?color=red&style=flat-square"></a>
-</p>
+## **`Hola 👋`**
 
-## `Grupo de WhatsApp`
-<a href="https://chat.whatsapp.com/JAdp1tAPOCEJZWUeEVrnc7"><img title="Grupo" src="https://img.shields.io/badge/Whatsapp Group-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-### `🍨 ACTIVAR 24/7 EN INFINITY HOST`
-<a href="https://dashboard.infinitywa.xyz"><img src="https://qu.ax/TPhh.jpg" height="125px"></a>
+<a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=FFFB00&center=true&width=435&lines=NexusBot-MD+%E2%9C%A8%EF%B8%8F;Gracias+Por+Visitar+Este+Repositorio+;Espero+Te+Guste+Mucho;D%C3%A9janos+Una+Estrella+%F0%9F%8C%9F+(No+Obligatorio)" alt="Typing SVG" /></a>
 
 
+------------------
 
-___
-### `🍨 ACTIVAR EN FLAREX`
-- Pagina Web: https://www.flarex.cloud
-- Tutorial: *en proceso*
-- Área de Pagos: https://billing.flarex.cloud
-- Game Panel: https://gamepanel.flarex.cloud
-- Contacto: hi@flarex.cloud / support@flarex.cloud / partnerships@flarex.cloud
-- Discord: https://discord.flarex.cloud
-<a href="https://www.flarex.cloud"><img src="https://cdn.flarex.cloud/deploy.png" height="60px"></a>
+# ![logo](https://telegra.ph/file/891dc302887ed54a2c6d3.jpg)
 
-___
-### `Deply HerokuApp`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AzamiJs/CuriosityBot-MD/)
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=DFF700&width=435&lines=%F0%9F%92%96+GRUPO+DEL+BOT+%F0%9F%92%96" alt="Typing SVG" /></a>
 
-### `Paquete de Heroku`
-**heroku/nodejs**
-_https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git_
-_https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git_
+<a href="https://chat.whatsapp.com/G9MpDVmJtbiIpItEZpg70s" target="blank"><img src="https://img.shields.io/badge/GRUPO_OFC_DEL_BOT_-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-### `Usuarios de replit`
-[![Run on Repl.it](https://repl.it/badge/github/AzamiJs/CuriosityBot-MD)](https://repl.it/github/AzamiJs/CuriosityBot-MD)
 
-### `Ususarios de Railway`
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
-### `Usuarios de Termux`
+ > NO SPAMEAR COMANDOS
+
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=8909F7&width=435&lines=+%F0%9F%96%8D+LETRA+DEL+BOT+%F0%9F%96%8D" alt="Typing SVG" /></a> 
+- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=E2E1F7&width=435&lines=%E2%9A%99%EF%B8%8F+AJUSTES+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a> 
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/WOTCHITO/NexusBot-MD/fork)
+
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=6532F7&width=435&lines=+%F0%9F%91%BE+ACTIVAR+EN+TERMUX+%F0%9F%91%BE" alt="Typing SVG" /></a> 
+- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
-$ pkg upgrade && pkg update
-$ pkg install git -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone https://github.com/AzamiJs/CuriosityBot-MD
-$ cd CuriosityBot-MD
-$ npm i 
-```
-```bash
-$ node .
+cd && termux-setup-storage
 ```
 
-#### `Para Android 10 y superior, no use npm, use Yarn Install`
 ```bash
-$ pkg install yarn -y
-$ yarn install
-```
----------
-
-### `Termux con Ubuntu`
-
-```bash
-apt update && apt full-upgrade
-apt install wget curl git proot-distro
-proot-distro install ubuntu
-echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu
-ubuntu
-```
----------
-
-### `Instalación de paquetes requeridos`
-
-```bash
-ubuntu
-apt update && apt full-upgrade
-apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev dbus-x11 ffmpeg2theora ffmpegfs ffmpegthumbnailer ffmpegthumbnailer-dbg ffmpegthumbs libavcodec-devev librsvg2-dev dbus-x11 ffmpeg2theora ffmpegfs ffmpegthumbnailer ffmpegthumbnailer-dbg ffmpegthumbs libavcodec-dev libavcodec-extra libavcodec-extra58 libavdevice-dev libavdevice58 libavfilter-dev libavfilter-extra libavfilter-extra7 libavformat-dev libavformat58 libavifile-0.7-bin libavifile-0.7-common libavifile-0.7c2 libavresample-dev libavresample4 libavutil-dev libavutil56 libpostproc-dev libpostproc55 graphicsmagick graphicsmagick-dbg graphicsmagick-imagemagick-compat graphicsmagick-libmagick-dev-compat groff imagemagick-6.q16hdri imagemagick-common libchart-gnuplot-perl libgraphics-magick-perl libgraphicsmagick++-q16-12 libgraphicsmagick++1-dev
-```
----------
-
-### `Para usuarios de WINDOWS/VPS/RDP`
-
-* Instal Git [`click`](https://git-scm.com/downloads)
-* Instal NodeJS [`click`](https://nodejs.org/en/download)
-* Instal FFmpeg [`click`](https://ffmpeg.org/download.html)
-* Instal ImageMagick [`click`](https://imagemagick.org/script/download.php)
-```bash
-git clone https://github.com/AzamiJs/CuriosityBot-MD
-cd CuriosityBot-MD
-npm install
-npm update
-```
----------
-
-### `Run`
-
-```bash
-node .
+apt-get update -y && apt-get upgrade -y
 ```
 
+```bash
+git clone https://github.com/WOTCHITO/NexusBot-MD.git && cd NexusBot-MD
+```
+
+```bash
+yarn install && npm install
+```
+
+```bash
+npm start
+```
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=5A5A5A&width=435&lines=%E2%9C%94%EF%B8%8F+ACTIVAR+EN+CASO+DE+DETENERSE+EN+TERMUX+%E2%9C%94%EF%B8%8F" alt="Typing SVG" /></a> 
+
+> ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+```bash
+ cd
+```
+```bash
+ cd Nexus-termux
+```
+```bash
+ npm start
+```
+
+###  <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=CCEBF7&width=435&lines=%F0%9F%91%BD+OBTENER+OTRO+CODIGO+QR+EN+TERMUX+%F0%9F%91%BD" alt="Typing SVG" /></a> 
+
+- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A  Goku-termux $  
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd NexusBot-MD
+> rm -rf NexusSession
+> npm start
+```
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=1A11F7&width=435&lines=%F0%9F%94%B5+OLYMPUS-HOST+%F0%9F%94%B5" alt="Typing SVG" /></a> 
+<a href="https://dash.olympus-host.xyz"><img src="https://qu.ax/waCu.jpg" height="125px"></a>
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0026FF&width=435&lines=Informaci%C3%B3n+del+Host" alt="Typing SVG" /></a>
+
+• Dashboard: [`Aquí`](https://dash.olympus-host.xyz)
+
+• Panel: [`Aquí`](https://panel.olympus-host.xyz)
+
+• Canal de WhatsApp: [`Aquí`](https://whatsapp.com/channel/0029ValCkNT2ER6gHWFRQ71J)
+
+• Correo: [`Aquí`](olympushost2@gmail.com.com)
+
+- [x] **Configuración** <details><summary>**Ajustes del Servidor - GokuBot**</summary><img src="https://telegra.ph/file/df9e39ea02ef177ac5194.jpg"></details>
+
+ ### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=FFCE00&width=435&lines=%F0%9F%91%91+DUDAS+SOBRE+EL+BOT%3F%2CCONTACTA+AL+CREADOR+%F0%9F%91%91" alt="Typing SVG" /></a> 
+<a href="http://wa.me/593939005387" target="blank"><img src="https://img.shields.io/badge/EDER-CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF0099&width=435&lines=%F0%9F%92%96+AGRADECIMIENTOS+" alt="Typing SVG" /></a> 
+<a 
+href="https://github.com/Jostin207"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Agradecimientos"/></a>
+<a
+href="https://github.com/OfcDiego"><img src="https://github.com/OfcDiego.png" width="100" height="100" alt="Agradecimientos"/></a>
+<a
+href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="100" height="100" alt="Agradecimientos"/></a>
+
+### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=55FFE3&width=435&lines=%F0%9F%A7%B8+Mi+Creador" alt="Typing SVG" /></a>
+<a
+href="https://github.com/WOTCHITO"><img src="https://github.com/WOTCHITO.png" width="140" height="140" alt="Eder"/></a>
+
+<a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6CFF54&center=true&width=435&lines=NexusBot-MD+-+By+WOTCHITO+" alt="Typing SVG" /></a>
