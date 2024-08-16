@@ -113,10 +113,10 @@ bot: setup.text7, error: setup.text8,
 wait: setup.text9, premium: setup.text10
 }
 
-const link = 'https://whatsapp.com/channel/0029VaB4w2ZFHWpwgyEe3w2k'
+const link = 'https://whatsapp.com/channel/0029VaUzrr0HLHQU93Ig2t3I'
 const fotos = 'https://qu.ax/lFTW.jpeg'
 const Title = wm
-const Body = 'Zam'
+const Body = 'eder'
 
 if (m.message) {
 const fecha = chalk.bold.magentaBright(`\nFecha: ${chalk.whiteBright(moment().format('DD/MM/YY HH:mm:ss'))}`)
@@ -180,7 +180,7 @@ client.groupParticipantsUpdate(m.chat, [m.sender], 'remove')}}}
 switch(prefix && command) {
 
   case 'zam': {
-   client.sendButton(m.chat, 'Curio', 'Zam', null, [['Menu', `.menu`]], null, null, m)
+   client.sendButton(m.chat, 'Curio', 'eder', null, [['Menu', `.menu`]], null, null, m)
 await client.sendContextInfo(m.chat, wm, Title, Body, link, m)
   }
     break
@@ -427,8 +427,8 @@ await client.sendMessage(m.chat, {text: texto, contextInfo: { forwardingScore: 9
 break
 
 case 'infobot': {
-const texto = `🔍 *Información de CuriosityBot-MD* 🔍\n
-👨‍💻 Desarrollador: Zam
+const texto = `🔍 *Información de nexusbot-MD* 🔍\n
+👨‍💻 Desarrollador: eder
 🚀 Estado: Versión Beta en desarrollo
 🛠️ Estructura actual: Switch Case
 📜 Versión anterior: Plugin (base donada a GataDios, ahora YartexBot-MD)
