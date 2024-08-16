@@ -100,4 +100,4 @@ href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino
 <a
 href="https://github.com/WOTCHITO"><img src="https://github.com/WOTCHITO.png" width="140" height="140" alt="Eder"/></a>
 
-<a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6CFF54&center=true&width=435&lines=NexusBot-MD+-+By+WOTCHITO+" alt="Typing SVG" /></a>
+<a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6CFF54&center=true&width=435&lines=NexusBot-MD+-+By+EDER+" alt="Typing SVG" /></a>
