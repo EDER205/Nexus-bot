@@ -3,11 +3,9 @@ const chalk = require('chalk')
 
 global.owner = [
 ['573027866596', true], 
-['51929972576'],
-['573147616444'], 
-['5492266613038']]
 
-global.wm = '© CuriosityBot-MD'
+
+global.wm = '© NexusBot-MD'
 global.prefa = '.'
 global.session = 'session'
 global.vs = '1.0.0'
