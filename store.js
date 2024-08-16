@@ -2,7 +2,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.owner = [
-['573027866596', true], 
+['573027866596', true]
+]
 
 
 global.wm = '© NexusBot-MD'
