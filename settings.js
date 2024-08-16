@@ -37,7 +37,7 @@ global.gif = 'https://qu.ax/lFTW.jpeg'
 global.thumb = 'https://qu.ax/lFTW.jpeg'
 
 global.multiplier = 45
-global.sourceurl = 'https://whatsapp.com/channel/0029VaB4w2ZFHWpwgyEe3w2k'
+global.sourceurl = 'https://whatsapp.com/channel/0029VaUzrr0HLHQU93Ig2t3I'
 
 global.rpg = {
 emoticon(string) {
