@@ -15,11 +15,11 @@ global.ocrapi = '314b4b8b2d88957'
 
 //Other Settings
 global.namebot = 'nexusbot-MD'
-global.title = 'CuriosityBot - Zam'
+global.title = 'nexus - Eder'
 global.sgc = 'https://chat.whatsapp.com'
 global.isPairing = false
 global.sig = 'https://www.instagram.com/zam._.bl'
-global.giturl = 'https://github.com/AzamiJs/CuriosityBot-MD'
+global.giturl = 'https://github.com/EDER205/Nexus-bot'
 global.swa = 'wa.me/573027866596'
 global.version = '1.0'
 global.access_denied = 'https://qu.ax/lFTW.jpeg'
