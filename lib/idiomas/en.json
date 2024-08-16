@@ -10,14 +10,8 @@
 },
 
 "actions": {
-"text1": "🍟 *¡Now only administrators can send messages!*",
-"text2": "🍟 *Now all participants can send messages*",
-"text3": "🍟 *Now only administrators can edit group information*",
-"text4": "🍟 *All users can now edit group information*",
-"text5": "🍟 ¡Description has been changed!*\n\nNew description:",
-"text6": "🍟 *¡Group title has been changed!*\nNew name:",
-"text7": "Has been promoted to *administrator* role in this group.",
-"text8": "Has been removed from their *administrator* role in this group."
+"text1": "Has been promoted to *administrator* role in this group.",
+"text2": "Has been removed from their *administrator* role in this group."
 }
 },
 
@@ -229,20 +223,6 @@
 }
 },
 
-"tools": {
-"traducir": {
-"text1": "🍟 *Example:*\n.translate en hola",
-"text2": "🚩 *An error has occurred*"
-},
-
-"google": {
-"text1": "🍟 *Example*",
-"text2": "*⸰ Title:*",
-"text3": "*⸰ Description:*",
-"text4": "*⸰ Link:*"
-}
-},
-
 "owner": {
 "update": {
 "text1": "✅ *No pending updates.*",
@@ -257,7 +237,7 @@
 
 "join": {
 "text1": "🍟 *Enter a group link*",
-"text2": "✅ *I have joined the group*`"
+"text2": "✅ *I have joined the group*"
 }
 },
 
