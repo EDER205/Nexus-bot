@@ -5,7 +5,7 @@
 
 ------------------
 
-# ![logo](https://telegra.ph/file/891dc302887ed54a2c6d3.jpg)
+# ![logo](Screenshot_2024-08-14-08-03-33-522_com.whatsapp.jpg)
 
 ### <a href="https://github.com/WOTCHITO"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=DFF700&width=435&lines=%F0%9F%92%96+GRUPO+DEL+BOT+%F0%9F%92%96" alt="Typing SVG" /></a>
 
