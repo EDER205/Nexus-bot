@@ -522,9 +522,9 @@ break
 case 'owner': case 'contacto': case 'creador': case 'dueño': case 'creator': case 'contact': {
 const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? client.user.jid : m.sender
 const pp = await client.profilePictureUrl(who).catch(_ => '')
-const biografia = await client.fetchStatus('5214434703586' +'@s.whatsapp.net').catch(_ => 'Sin Biografía')
+const biografia = await client.fetchStatus('573027866596' +'@s.whatsapp.net').catch(_ => 'Sin Biografía')
 const bio = biografia.status?.toString() || 'Sin Biografía'
-await client.sendContactArray(m.chat, [['5214434703586', `Zam`, `🌐 Creador`, 'Zam', 'thecuriositybot@gmail.com', `🇲🇽 México`, `https://www.youtube.com/@Azami_YT`, bio]], m)
+await client.sendContactArray(m.chat, [['573027866596', `Eder`, `🌐 Creador`, 'Zam', 'thecuriositybot@gmail.com', `🇲🇽 México`, `https://www.youtube.com/@Azami_YT`, bio]], m)
 }
 break
 
