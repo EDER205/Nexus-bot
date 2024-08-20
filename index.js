@@ -303,7 +303,6 @@ connectToWhatsApp()
 
 if (update.isNewLogin) {
 console.log(chalk.yellow(`Primer inicio de sesión exitoso`))
-client.sendMessage('5214434703586@s.whatsapp.net', { text: `\`Curiosity ¡News!\` 📦\n· La conexión del bot Curiosity fue exitosa\n\n📄 *Información de la Conexión*\n\n- Nombre: ${client.user.name}\n- Fecha y Hora: ${moment().format('DD/MM/YY HH:mm:ss')}\n- Plataforma: ${os.platform()}\n- Arquitectura: ${os.arch()}\n- Memoria total: ${(os.totalmem() / 1024 / 1024).toFixed(2)} MB\n- Memoria gratuita: ${(os.freemem() / 1024 / 1024).toFixed(2)} MB` })
 }
 
 if (connection == 'open') {
