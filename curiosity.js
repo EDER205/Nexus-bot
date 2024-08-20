@@ -113,7 +113,7 @@ bot: setup.text7, error: setup.text8,
 wait: setup.text9, premium: setup.text10
 }
 
-const link = 'https://whatsapp.com/channel/0029VaUzrr0HLHQU93Ig2t3I'
+const link = 'https://whatsapp.com/channel/0029VakrvQQDp2QD6dQHWS3n'
 const fotos = 'https://qu.ax/lFTW.jpeg'
 const Title = wm
 const Body = 'eder'
