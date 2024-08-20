@@ -331,7 +331,7 @@ ${menu.text3} ${leng}
 \n${menu.text4}
 ${menu.text5} Zam
 ${menu.text6} New@1.0.0\n
-${menu.text7}\n\n🌐 _https://whatsapp.com/channel/0029VaB4w2ZFHWpwgyEe3w2k_`
+${menu.text7}\n\n🌐 _https://whatsapp.com/channel/0029VakrvQQDp2QD6dQHWS3n_`
 let listSections = []    
 listSections.push({
 title: '',
